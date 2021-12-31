@@ -1,0 +1,28 @@
+h1 {
+  font: bold 25pt Arial;
+}
+
+button {
+  font: normal 15pt Arial;
+  padding: 20px;
+}
+
+div#texto {
+  font: bold 20pt Arial;
+  margin-top: 30px;
+}
+
+p {
+  font: normal 15pt Arial;
+}
+
+span#naobissexto {
+  color: rgb(127, 24, 11);
+  background-color: rgb(226, 135, 131);
+}
+
+span#bissexto {
+  color: rgb(55, 125, 33);
+  background-color: rgb(166, 235, 154);
+}
+
