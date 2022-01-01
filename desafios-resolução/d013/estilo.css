@@ -1,0 +1,32 @@
+h1 {
+  font: bold 25pt Arial;
+}
+
+button {
+  font: normal 15pt Arial;
+  padding: 20px;
+}
+
+div#texto {
+  font: bold 20pt Arial;
+  margin-top: 30px;
+}
+
+p {
+  font: normal 15pt Arial;
+}
+
+span#aprovado {
+  background-color: rgb(166, 235, 154);
+  color: rgb(55, 125, 33);
+}
+
+span#recuperacao {
+  background-color: rgb(254, 253, 224);
+  color: rgb(195, 137, 76);
+}
+
+span#reprovado {
+  background-color: rgb(226, 135, 131);
+  color:rgb(142, 40, 29);
+}
